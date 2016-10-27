@@ -1,0 +1,28 @@
+[
+	{"title":"图书","list":[
+		{"cName":"哈利·波特与魔法石","imgSrc":"images/contentl11.jpg","imgDesc":"哈利波特来了!","price":"免费"},
+		{"cName":"特价专区","imgSrc":"images/contentl12.jpg","imgDesc":"哈利波特来了!","price":"限时优惠"},
+		{"cName":"杂志专区","imgSrc":"images/contentl13.jpg","imgDesc":"纸媒杂志＋互联网杂志，你想看的这都有！","price":"同步新刊上线"},
+		{"Desc":"海量好书，享受精品阅读时光<br/>漂亮的中文排版，千万读者选择！","imgSrc":"images/content_more.jpg","aBtn":"前往多看阅读"}
+	]},
+	{"title":"MIUI主题","list":[
+		{"cName":"哈利·波特与魔法石","imgSrc":"images/contentl11.jpg","imgDesc":"哈利波特来了!","price":"免费"},
+		{"cName":"特价专区","imgSrc":"images/contentl12.jpg","imgDesc":"哈利波特来了!","price":"限时优惠"},
+		{"cName":"杂志专区","imgSrc":"images/contentl13.jpg","imgDesc":"纸媒杂志＋互联网杂志，你想看的这都有！","price":"同步新刊上线"},
+		{"Desc":"海量好书，享受精品阅读时光<br/>漂亮的中文排版，千万读者选择！","imgSrc":"images/content_more.jpg","aBtn":"前往多看阅读"}
+	]},
+	{"title":"游戏","list":[
+		{"cName":"哈利·波特与魔法石","imgSrc":"images/contentl11.jpg","imgDesc":"哈利波特来了!","price":"免费"},
+		{"cName":"特价专区","imgSrc":"images/contentl12.jpg","imgDesc":"哈利波特来了!","price":"限时优惠"},
+		{"cName":"杂志专区","imgSrc":"images/contentl13.jpg","imgDesc":"纸媒杂志＋互联网杂志，你想看的这都有！","price":"同步新刊上线"},
+		{"Desc":"海量好书，享受精品阅读时光<br/>漂亮的中文排版，千万读者选择！","imgSrc":"images/content_more.jpg","aBtn":"前往多看阅读"}
+	]},
+	{"title":"应用","list":[
+		{"cName":"哈利·波特与魔法石","imgSrc":"images/contentl11.jpg","imgDesc":"哈利波特来了!","price":"免费"},
+		{"cName":"特价专区","imgSrc":"images/contentl12.jpg","imgDesc":"哈利波特来了!","price":"限时优惠"},
+		{"cName":"杂志专区","imgSrc":"images/contentl13.jpg","imgDesc":"纸媒杂志＋互联网杂志，你想看的这都有！","price":"同步新刊上线"},
+		{"Desc":"海量好书，享受精品阅读时光<br/>漂亮的中文排版，千万读者选择！","imgSrc":"images/content_more.jpg","aBtn":"前往多看阅读"}
+	]}
+		
+	
+]
